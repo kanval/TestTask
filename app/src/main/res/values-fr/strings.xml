@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tâche de test</string>
+    <string name="load_new">Suivant</string>
+    <string name="message">Vous n êtes pas connecté à Internet</string>
+    <string name="message_error">Une erreur s est produite!</string>
+</resources>

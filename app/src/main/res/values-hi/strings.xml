@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">टेस्ट टास्क</string>
+    <string name="load_new">नया लोड करें</string>
+    <string name="message">" आप इंटरनेट से नहीं जुड़े हैं!"</string>
+    <string name="message_error">" कुछ त्रुटि हुई!"</string>
+</resources>

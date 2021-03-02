@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="load_new">Next</string>
+    <string name="message">You are not connected to internet</string>
+    <string name="message_error">Some Error Occurred!</string>
+</resources>
+
